@@ -18,6 +18,8 @@ pip install -U -r requirements.txt
 
 # Use
 
+**Note Catalina** We already have the key and the secret in LastPass. 
+
 1. Request a Flickr API key: https://www.flickr.com/services/apps/create/apply
 
 2. Write your API key and secret in `flickr_scraper.py` L9-L10:
